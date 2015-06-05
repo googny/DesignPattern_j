@@ -5,7 +5,7 @@ package creational.simplefactory;
  * create date 2015/6/5.
  */
 public class Pizza {
-    String pizzaName;
+    public String pizzaName;
     public void prepare(){
         System.out.println("prepare "+pizzaName);
     }

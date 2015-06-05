@@ -15,12 +15,4 @@ public class PizzaStore {
         System.out.println("==================");
         return pizza;
     }
-
-    public static void main(String[] args) {
-        PizzaStore store = new PizzaStore();
-        store.orderPizza("cheese");
-        store.orderPizza("clam");
-        store.orderPizza("veggie");
-        store.orderPizza("pepperoni");
-    }
 }
