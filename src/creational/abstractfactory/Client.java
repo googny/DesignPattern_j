@@ -2,7 +2,7 @@ package creational.abstractfactory;
 
 /**
  * @author mti1301
- *         create date 2015/6/5.
+ * create date 2015/6/5.
  */
 public class Client {
     public static void main(String[] args) {
